@@ -18,7 +18,7 @@
 
 <strong>下载downloads1.2</strong>
 
-https://github.com/KARAYASATAHALA/Code-Posters-SCAN-/raw/master/1.2.7z
+https://github.com/KARAYASATAHALA/Code-Posters-SCAN/raw/master/1.2.7z
 
 
 
@@ -32,14 +32,7 @@ http://upstore.net/vyazmc6
 
 <strong>下载downloads1.01</strong>
 
-https://github.com/KARAYASATAHALA/Code-Posters-SCAN/raw/master/1.01.7z.001
-
-https://github.com/KARAYASATAHALA/Code-Posters-SCAN/raw/master/1.01.7z.002
-
-https://github.com/KARAYASATAHALA/Code-Posters-SCAN/raw/master/1.01.7z.003
-
-https://github.com/KARAYASATAHALA/Code-Posters-SCAN/raw/master/1.01.7z.004
-
+点击上面绿色方块DOWNLOAD zip
 
 备用
 
