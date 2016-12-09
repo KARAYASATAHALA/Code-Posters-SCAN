@@ -4,13 +4,13 @@
 
 
   
-0.88 最初扫描产生的所有原文件  稍后打包放出下载
+0.88 最初扫描产生的所有原文件  已打包可下载
 
-0.9  失败的拼接文件以及再次扫描 
+0.9  失败的拼接文件
 
 1.0  停止折腾
 
-1.01 未修改的拼接原图  
+1.01 拼接后的图片
 
 1.2  推荐版本 在1.01基础上调整对比度/亮度，最高质量压缩到jpg，缩放优化了图片尺寸 ?
 
@@ -42,7 +42,11 @@ https://upstore.net/vyaPaqf
 
 
 
+<font color="#ff6ab8">0.88</font>
 
+https://filenurse.com/download/80444ffbfcc2b38614fd6c8d48d010d5.html
+
+http://upstore.net/vHxA6i8
 
 
 
