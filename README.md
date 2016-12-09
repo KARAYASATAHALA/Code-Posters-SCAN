@@ -42,7 +42,7 @@ https://upstore.net/vyaPaqf
 
 
 
-<font color="#ff6ab8">0.88</font>
+<strong>下载downloads0.88</strong>
 
 https://filenurse.com/download/80444ffbfcc2b38614fd6c8d48d010d5.html
 
@@ -57,7 +57,7 @@ http://upstore.net/vHxA6i8
 
 12寸没出之前有想过给让专业人士去扫图，但是看到出了宽度12寸立刻就决定自己动手了，
 开箱（筒）第一时间扫图，接着看了个一个教学文后马上（懒了一个星期以后）就开始了，拼接工具是随手下载的Adobe Photoshop CS5破解版并不敢实机运行。
-之前扫了扫描的大量图片其实不能用，扫描设备的问题使得简单的拼接变成了体力活。折腾又折腾，我想大约花了25个小时。
+之前扫描的大量图片其实不能用，扫描设备的问题使得简单的拼接变成了体力活。折腾又折腾，我想大约花了25个小时。
 
 
 
