@@ -60,11 +60,11 @@ https://upstore.net/vyaPaqf
 
 <strong>A公司水印图和我购买的A公司打印海报 肉眼可见颜色巨大不同是怎么回事？</strong>
 
-在我使用ctrl+Y（pscs中的校样颜色）我突然知道了原因，那他们就是真的就是把原图直接喷墨出来了 就是说本身cmmy和屏幕标准的sRGB差很大
+在我使用ctrl+Y（pscs中的校样颜色）我突然知道了原因，那他们就是真的就是把原图直接喷墨出来了 就是说本身CMYK和屏幕标准的sRGB差很大
 
 <img src="https://cloud.githubusercontent.com/assets/24437060/21023956/cab06ccc-bd50-11e6-9cf3-9e5b7734e65e.png" alt="cmmy" style="max-width:10%;">
 
-（右图为模拟cmmy也就是理论冲印出来的样子，实际海报颜色就是这样的）
+（右图为模拟CMYK也就是理论冲印出来的样子，实际海报颜色就是这样的）
  
  A公司显然无视或容许了这种色差的存在。
 
